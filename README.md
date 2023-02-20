@@ -1,6 +1,6 @@
 # _io!_ I'm Otávio!
 
-> You can call me _octo_, _taviota_ or find me on the internet usually as _atoivat_.
+> You can call me _octo_, _taviota_ or find me on the internet usually as `atoivat`.
 
 <img align="right" width="500" src="https://wakatime.com/share/@atoivat/d29c619c-4392-4c4c-9869-59bd19e23449.svg">
 
