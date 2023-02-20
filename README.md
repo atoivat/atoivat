@@ -1,12 +1,13 @@
-# io! I'm Otávio
+# _io!_ I'm Otávio!
 
 > You can call me _octo_, _taviota_ or find me on the internet usually as _atoivat_.
+
+<img align="right" width="500" src="https://wakatime.com/share/@atoivat/d29c619c-4392-4c4c-9869-59bd19e23449.svg">
 
 - Back-end python developer;
 - Undergraduate Computer Science student at [Federal University of Uberlândia](https://ufu.br/);
 - Programmer at [Roboforge Robotics team](https://github.com/roboforgeufu).
 
----
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
@@ -15,11 +16,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+<div align="center">
+
 [![wakatime](https://wakatime.com/share/@atoivat/c89d6443-c9a6-4b90-add5-9098bcf58fe1.svg)](https://wakatime.com/@9d88dbed-e295-41c7-b6f2-1111f60a88f7)
 
-[![wakatime](https://wakatime.com/share/@atoivat/d29c619c-4392-4c4c-9869-59bd19e23449.svg)](https://wakatime.com/@9d88dbed-e295-41c7-b6f2-1111f60a88f7)
+</div>
 
----
 
 <div align="center">
 
