@@ -20,8 +20,6 @@
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/share/@atoivat/c89d6443-c9a6-4b90-add5-9098bcf58fe1.svg)](https://wakatime.com/@9d88dbed-e295-41c7-b6f2-1111f60a88f7)
-
 </div>
 
 <div align="center">
